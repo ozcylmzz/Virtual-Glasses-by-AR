@@ -10,17 +10,22 @@ In this project, which can work by real time video or photo upload, face detecti
 will be made using machine learning functions. With the help of image processing
 functions, landmarks will be found in the detected facial region. With the help of the
 found landmarks, the following calculations will be made;
-1
+
 • Detecting landmarks in the face: The "dlib.shape-predictor
 ("shape-predictor-68-face-landmarks.dat")" function of the "dlib" library is
 used for this process. The points indicated are shown in the "System Design"
 section (Software Design Subsection).
+
 • Determination of the angle of inclination of the head from right to left
 (two-dimensional slope angle),
+
 • Determination of the angle of inclination of the head from front to side
 (three-dimensional slope angle),
+
 • Determination of the border areas of the eyes,
+
 • Determination of the eye center.
+
 Within the scope of the project, the glasses are divided into three parts so that the
 glasses fit better on the face;
 1. Glass part
@@ -29,10 +34,14 @@ glasses fit better on the face;
 Using the data from the calculations in the face area, the following procedures will be
 applied to the glasses photo at our project;
 • Rotating according to two-dimensional degree
+
 • Perspective rotating according to three-dimensional degree
+
 • Resizing the picture
+
 • Adjusting the opacity of the eyeglass using the value (“alpha”) in
 non-background photos (“.png”)
+
 • Placing the glasses photo on the face
 
 Example outputs:
