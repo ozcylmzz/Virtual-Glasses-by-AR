@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bc38edc-8aef-486a-89d0-24fc986b7f1f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/augmented_reality_master$glasses.coverage" NAME="glasses Coverage Results" MODIFIED="1582226381071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YBJqiHpeOsLFkGkow8X4YCiIIU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.glasses">
+    <configuration name="findGlassesCenter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="augmented-reality-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/findGlassesCenter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="glasses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="augmented-reality-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/glasses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resized_rotated_pixel_locations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="augmented-reality-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resized_rotated_pixel_locations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transparent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="augmented-reality-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transparent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="userInterface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="augmented-reality-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/userInterface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.glasses" />
+        <item itemvalue="Python.findGlassesCenter" />
+        <item itemvalue="Python.userInterface" />
+        <item itemvalue="Python.transparent" />
+        <item itemvalue="Python.resized_rotated_pixel_locations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc38edc-8aef-486a-89d0-24fc986b7f1f" name="Default Changelist" comment="" />
+      <created>1582220703692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582220703692</updated>
+      <workItem from="1582220712301" duration="3637000" />
+      <workItem from="1582315088022" duration="56000" />
+      <workItem from="1582315263833" duration="98000" />
+      <workItem from="1582410275075" duration="81000" />
+      <workItem from="1582478512862" duration="308000" />
+      <workItem from="1582478834152" duration="48000" />
+      <workItem from="1582478942263" duration="2377000" />
+      <workItem from="1582809251829" duration="4737000" />
+      <workItem from="1583003533434" duration="474000" />
+      <workItem from="1583004229479" duration="1522000" />
+      <workItem from="1583024006154" duration="183000" />
+      <workItem from="1583407682826" duration="1036000" />
+      <workItem from="1583408797333" duration="4747000" />
+      <workItem from="1583429489125" duration="7802000" />
+      <workItem from="1583522429449" duration="664000" />
+      <workItem from="1583676206753" duration="13247000" />
+      <workItem from="1583831197644" duration="5687000" />
+      <workItem from="1584004616244" duration="2271000" />
+      <workItem from="1583831197644" duration="5481000" />
+      <workItem from="1584005272426" duration="1603000" />
+      <workItem from="1584007567041" duration="2838000" />
+      <workItem from="1584095689414" duration="12969000" />
+      <workItem from="1584350104540" duration="110000" />
+      <workItem from="1584350306602" duration="954000" />
+      <workItem from="1584351713352" duration="1309000" />
+      <workItem from="1584385757599" duration="420000" />
+      <workItem from="1584638101771" duration="1709000" />
+      <workItem from="1584640123154" duration="5238000" />
+      <workItem from="1584794417306" duration="877000" />
+      <workItem from="1584795516236" duration="24000" />
+      <workItem from="1584980506587" duration="7859000" />
+      <workItem from="1585087696622" duration="3399000" />
+      <workItem from="1585155908524" duration="12809000" />
+      <workItem from="1585339046328" duration="908000" />
+      <workItem from="1585490632496" duration="13668000" />
+      <workItem from="1585866404140" duration="8014000" />
+      <workItem from="1586022363951" duration="1347000" />
+      <workItem from="1586024013896" duration="107000" />
+      <workItem from="1586024429700" duration="8070000" />
+      <workItem from="1586106134127" duration="10140000" />
+      <workItem from="1586373424606" duration="427000" />
+      <workItem from="1586374448440" duration="3768000" />
+      <workItem from="1586378422621" duration="1290000" />
+      <workItem from="1586695548782" duration="2433000" />
+      <workItem from="1586701275542" duration="23000" />
+      <workItem from="1586723963550" duration="2188000" />
+      <workItem from="1588345716191" duration="717000" />
+      <workItem from="1588539466392" duration="1557000" />
+      <workItem from="1588618776291" duration="1657000" />
+      <workItem from="1588680783411" duration="608000" />
+      <workItem from="1589050447570" duration="6241000" />
+      <workItem from="1589128438552" duration="718000" />
+      <workItem from="1590083569199" duration="31000" />
+      <workItem from="1590858338510" duration="1308000" />
+      <workItem from="1590939214760" duration="3665000" />
+      <workItem from="1590944403757" duration="891000" />
+      <workItem from="1590945299415" duration="109000" />
+      <workItem from="1590947821829" duration="670000" />
+      <workItem from="1590948495542" duration="1646000" />
+      <workItem from="1590950190800" duration="165000" />
+      <workItem from="1590950650583" duration="4427000" />
+      <workItem from="1591308527530" duration="2046000" />
+      <workItem from="1591622314758" duration="5243000" />
+      <workItem from="1591718909574" duration="1561000" />
+      <workItem from="1591826820388" duration="6457000" />
+      <workItem from="1592414451632" duration="653000" />
+      <workItem from="1592582544868" duration="2029000" />
+      <workItem from="1592650405731" duration="4222000" />
+      <workItem from="1593089989834" duration="31000" />
+      <workItem from="1593096745794" duration="18000" />
+      <workItem from="1593272989655" duration="1439000" />
+      <workItem from="1594300786293" duration="76000" />
+      <workItem from="1596553953248" duration="89000" />
+      <workItem from="1596554157188" duration="23000" />
+      <workItem from="1596554324358" duration="179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="123" key="FileChooserDialogImpl" timestamp="1585155976503">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="123" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1585155976503" />
+    <state width="1323" height="180" key="GridCell.Tab.-1.bottom" timestamp="1586033427608">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.-1.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033427608" />
+    <state width="1323" height="180" key="GridCell.Tab.-1.center" timestamp="1586033427608">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.-1.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033427608" />
+    <state width="1323" height="180" key="GridCell.Tab.-1.left" timestamp="1586033427608">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.-1.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033427608" />
+    <state width="1323" height="180" key="GridCell.Tab.-1.right" timestamp="1586033427608">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.-1.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033427608" />
+    <state width="1323" height="88" key="GridCell.Tab.0.bottom" timestamp="1590950356126">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="100" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1585177435080" />
+    <state width="1557" height="85" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1600.1170@1366.0.1600.1170" timestamp="1585075827363" />
+    <state width="1323" height="88" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590950356126" />
+    <state width="1877" height="129" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1588540080856" />
+    <state width="1323" height="125" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584367371044" />
+    <state width="1323" height="88" key="GridCell.Tab.0.center" timestamp="1590950356126">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="100" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1585177435079" />
+    <state width="1557" height="85" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1600.1170@1366.0.1600.1170" timestamp="1585075827363" />
+    <state width="1323" height="88" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590950356126" />
+    <state width="1877" height="129" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1588540080856" />
+    <state width="1323" height="125" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584367371044" />
+    <state width="1323" height="88" key="GridCell.Tab.0.left" timestamp="1590950356126">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="100" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1585177435079" />
+    <state width="1557" height="85" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1600.1170@1366.0.1600.1170" timestamp="1585075827363" />
+    <state width="1323" height="88" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590950356126" />
+    <state width="1877" height="129" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1588540080856" />
+    <state width="1323" height="125" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584367371044" />
+    <state width="1323" height="88" key="GridCell.Tab.0.right" timestamp="1590950356126">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="100" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1585177435080" />
+    <state width="1557" height="85" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1600.1170@1366.0.1600.1170" timestamp="1585075827363" />
+    <state width="1323" height="88" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590950356126" />
+    <state width="1877" height="129" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1588540080856" />
+    <state width="1323" height="125" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584367371044" />
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.1.bottom" timestamp="1586033477826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033477826" />
+    <state width="1323" height="121" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584114173618" />
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.1.center" timestamp="1586033477826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.1.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033477826" />
+    <state width="1323" height="121" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1584114173618" />
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.1.left" timestamp="1586033477826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.1.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033477826" />
+    <state width="1323" height="121" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1584114173618" />
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.1.right" timestamp="1586033477826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.1.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033477826" />
+    <state width="1323" height="121" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1584114173618" />
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.2.bottom" timestamp="1586033477811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.2.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033477811" />
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.2.center" timestamp="1586033477811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.2.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033477811" />
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.2.left" timestamp="1586033477811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.2.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033477811" />
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.2.right" timestamp="1586033477811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="478" width="1294" height="152" key="GridCell.Tab.2.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033477811" />
+    <state x="207" y="23" key="SettingsEditor" timestamp="1590858422265">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1584795528914" />
+    <state x="207" y="23" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590858422265" />
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584350336774" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1590939215216">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1585155920659" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590939215216" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1584350318649" />
+    <state x="71" y="478" width="1310" height="219" key="dock-window-1" timestamp="1586033491945">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="71" y="478" width="1310" height="219" key="dock-window-1/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586033491945" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586377486418">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1585173592359" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586377486418" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1584096218537" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/augmented_reality_master$findGlassesCenter.coverage" NAME="findGlassesCenter Coverage Results" MODIFIED="1591719096694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/augmented_reality_master$userInterface.coverage" NAME="userInterface Coverage Results" MODIFIED="1590954052165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/augmented_reality_master$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1582809987011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/augmented_reality_master$transparent.coverage" NAME="transparent Coverage Results" MODIFIED="1584006518733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/augmented_reality_master$resized_rotated_pixel_locations.coverage" NAME="resized_rotated_pixel_locations Coverage Results" MODIFIED="1583854093145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/augmented_reality_master$glasses.coverage" NAME="glasses Coverage Results" MODIFIED="1596554024355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/augmented_reality_master$tmp_0.coverage" NAME="tmp_0 Coverage Results" MODIFIED="1582810388529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/augmented_reality_master$resized_rotated_locatinos.coverage" NAME="resized_rotated_locatinos Coverage Results" MODIFIED="1583694077476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AR$glasses.coverage" NAME="glasses Coverage Results" MODIFIED="1596554331297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/augmented_reality_master$tmp_0__1_.coverage" NAME="tmp_0 (1) Coverage Results" MODIFIED="1582810560931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

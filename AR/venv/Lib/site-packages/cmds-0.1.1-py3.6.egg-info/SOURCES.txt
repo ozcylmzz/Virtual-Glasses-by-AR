@@ -1,0 +1,11 @@
+PKG-INFO
+README.md
+README.rst
+setup.cfg
+setup.py
+togit.sh
+cmds/__init__.py
+cmds.egg-info/PKG-INFO
+cmds.egg-info/SOURCES.txt
+cmds.egg-info/dependency_links.txt
+cmds.egg-info/top_level.txt
