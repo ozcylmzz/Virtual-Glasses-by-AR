@@ -47,3 +47,5 @@ non-background photos (“.png”)
 Example outputs:
 
 ![save1](https://user-images.githubusercontent.com/34898893/89314111-efc4d180-d681-11ea-963d-6c9656e8ce3e.PNG)![beckham](https://user-images.githubusercontent.com/34898893/89314143-f6ebdf80-d681-11ea-9356-6a922c04ca71.png)
+
+https://youtu.be/cHckgT5mWW4
